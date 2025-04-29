@@ -1,7 +1,7 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 # NAME: NARESH.R
 # REG NO: 212223240104
-# Date: 15.04.2025
+# Date: 29.04.2025
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
@@ -80,8 +80,7 @@ void yyerror(char *s) {
 }
 ```
 # OUTPUT
-![Screenshot 2025-04-15 115418](https://github.com/user-attachments/assets/238374b8-8b48-4b50-a0f6-5c6a0195ab1e)
-
+![image](https://github.com/user-attachments/assets/6b9e4681-a315-417a-b93b-6e3690fcbfbd)
 
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
